@@ -18,10 +18,10 @@ ul {
 }
 
 body > header {
-    background-color: orange;
-    color: #f6fa87;
+    background-color: blue;
+    color: whitesmoke;
     display: flex;
-    height: 10vh;
+    height: 15vh;
     align-items: center;
     justify-content: space-around;
 }
@@ -64,7 +64,7 @@ h2 {
 /* the above is a direct decendent/ child selector */
 
 body > footer {
-    background-color: orange;
+    background-color: blue;
     display: flex;
 }
 
@@ -82,6 +82,6 @@ img {
 }
 
 #footer-ul > div > li > a{
-    color: white;
+    color: whitesmoke;
     text-decoration: none;
 }
